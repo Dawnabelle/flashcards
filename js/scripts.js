@@ -11,4 +11,8 @@ $(document).ready(function() {
     $("#variables-showing").toggle();
     $("#variables-hidden").toggle();
   });
+  $(".clickable4").click(function() {
+    $("#variableNaming-showing").toggle();
+    $("#variableNaming-hidden").toggle();
+  });
 });
