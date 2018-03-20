@@ -18,6 +18,10 @@
   display: none;
 }
 
+#img-showing {
+  display: none;
+}
+
 .clickable {
   cursor: pointer;
   color: white;
@@ -34,6 +38,17 @@
 
 h1 {
   text-align: center;
+}
+
+h3 {
+  text-align: center;
+  background-color: #4545b7;
+  border: 1px solid black;
+  border-radius: 7px;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+  padding: 0px 0px 20px 0px;
 }
 
 .clickable2:hover {
@@ -70,4 +85,8 @@ h1 {
 
 p {
   color: #fcd062;
+}
+
+.well {
+  float: left;
 }
