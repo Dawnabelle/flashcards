@@ -1,0 +1,45 @@
+#javascript-showing {
+  display: none;
+}
+
+#operators-showing {
+  display: none;
+}
+
+#variables-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable2:hover {
+  text-decoration: underline;
+}
+
+.clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable3:hover {
+  text-decoration: underline;
+}
+
+.container {
+  border: 1px solid black;
+  width: 60%;
+  text-align: center;
+  margin-bottom: 50px;
+}
